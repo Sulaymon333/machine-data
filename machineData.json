@@ -4,19 +4,19 @@
             "id": 1,
             "name": "prusa",
             "type": "fdm",
-            "img": "https://i.ytimg.com/vi/hwNIzQLtHnU/maxresdefault.jpg"
+            "img": "https://cdn.prusa3d.com/wp-content/uploads/2021/01/MK3Splus_small.png"
         },
         {
             "id": 2,
             "name": "ultimaker-2",
             "type": "fdm",
-            "img": "https://www.dynamism.com/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/u/l/ultimaker-2-plus-connect-2.jpg"
+            "img": "https://www.atea.fi/eshop/img/3/f3266878/t16050759105161605860413652/s190X12c/"
         },
         {
             "id": 3,
             "name": "ultimaker-5",
             "type": "fdm",
-            "img": "https://www.3d-tulostus.fi/WebRoot/vilkas04/Shops/20131018-11092-264846-1/5ADD/BBED/180A/EEC3/559F/0A28/1011/ACF9/s5_korjattu_kuva.png"
+            "img": "https://cdn03.plentymarkets.com/ioseuwg7moqp/item/images/24319/full/Ultimaker-S5-Air-Manager-S5-Air-Manager-24319_4.jpg"
         },
         {
             "id": 4,
