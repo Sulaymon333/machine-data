@@ -22,25 +22,25 @@
             "id": 4,
             "name": "prusa-i3",
             "type": "fdm",
-            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prusa3d.com%2Foriginal-prusa-i3-mk3%2F&psig=AOvVaw04Th39WAUPeBX39wV26WrN&ust=1631178136128000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCAnZ6C7_ICFQAAAAAdAAAAABAD"
+            "img": "https://cdn.shop.prusa3d.com/2623/original-prusa-i3-mk3s-3d-printer.jpgD"
         },
         {
             "id": 5,
             "name": "prusa",
-            "type": "fdm",
-            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prusa3d.com%2Foriginal-prusa-i3-mk3%2F&psig=AOvVaw04Th39WAUPeBX39wV26WrN&ust=1631178136128000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCAnZ6C7_ICFQAAAAAdAAAAABAD"
+            "type": "sla",
+            "img": "https://www.creality3dofficial.com/files/goods/LD-006.jpg"
         },
         {
             "id": 6,
-            "name": "prusa",
+            "name": "wanhao",
             "type": "fdm",
-            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prusa3d.com%2Foriginal-prusa-i3-mk3%2F&psig=AOvVaw04Th39WAUPeBX39wV26WrN&ust=1631178136128000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCAnZ6C7_ICFQAAAAAdAAAAABAD"
+            "img": "https://www.wanhao3dprinter.com/Unboxin/UploadFiles_6892/201509/2015090814524061.jpg"
         },
         {
             "id": 7,
-            "name": "prusa",
+            "name": "markforged onyx pro",
             "type": "fdm",
-            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prusa3d.com%2Foriginal-prusa-i3-mk3%2F&psig=AOvVaw04Th39WAUPeBX39wV26WrN&ust=1631178136128000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCAnZ6C7_ICFQAAAAAdAAAAABAD"
+            "img": "https://www.3dz.com.mt/wp-content/uploads//2017/12/MARKFORGED-MarkTwo.jpg"
         }
     ]
 }
