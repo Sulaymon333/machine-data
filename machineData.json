@@ -6,15 +6,15 @@
             "type": "fdm",
             "img": "https://cdn.prusa3d.com/wp-content/uploads/2021/01/MK3Splus_small.png",
             "timeSlots": [
-                "9:00-10:00",
-                "10:00-11:00",
-                "11:00-12:00",
-                "12:00-13:00",
-                "13:00-14:00",
-                "14:00-15:00",
-                "15:00-16:00",
-                "16:00-17:00",
-                "17:00-"
+                { "time": "9:00-10:00", "available": true },
+                { "time": "10:00-11:00", "available": true },
+                { "time": "11:00-12:00", "available": true },
+                { "time": "12:00-13:00", "available": true },
+                { "time": "13:00-14:00", "available": true },
+                { "time": "14:00-15:00", "available": true },
+                { "time": "15:00-16:00", "available": true },
+                { "time": "16:00-17:00", "available": true },
+                { "time": "17:00-", "available": true }
             ]
         },
         {
@@ -23,15 +23,15 @@
             "type": "fdm",
             "img": "https://www.atea.fi/eshop/img/3/f3266878/t16050759105161605860413652/s190X12c/",
             "timeSlots": [
-                "9:00-10:00",
-                "10:00-11:00",
-                "11:00-12:00",
-                "12:00-13:00",
-                "13:00-14:00",
-                "14:00-15:00",
-                "15:00-16:00",
-                "16:00-17:00",
-                "17:00-"
+                { "time": "9:00-10:00", "available": true },
+                { "time": "10:00-11:00", "available": true },
+                { "time": "11:00-12:00", "available": true },
+                { "time": "12:00-13:00", "available": true },
+                { "time": "13:00-14:00", "available": true },
+                { "time": "14:00-15:00", "available": true },
+                { "time": "15:00-16:00", "available": true },
+                { "time": "16:00-17:00", "available": true },
+                { "time": "17:00-", "available": true }
             ]
         },
         {
@@ -40,15 +40,15 @@
             "type": "fdm",
             "img": "https://cdn03.plentymarkets.com/ioseuwg7moqp/item/images/24319/full/Ultimaker-S5-Air-Manager-S5-Air-Manager-24319_4.jpg",
             "timeSlots": [
-                "9:00-10:00",
-                "10:00-11:00",
-                "11:00-12:00",
-                "12:00-13:00",
-                "13:00-14:00",
-                "14:00-15:00",
-                "15:00-16:00",
-                "16:00-17:00",
-                "17:00-"
+                { "time": "9:00-10:00", "available": true },
+                { "time": "10:00-11:00", "available": true },
+                { "time": "11:00-12:00", "available": true },
+                { "time": "12:00-13:00", "available": true },
+                { "time": "13:00-14:00", "available": true },
+                { "time": "14:00-15:00", "available": true },
+                { "time": "15:00-16:00", "available": true },
+                { "time": "16:00-17:00", "available": true },
+                { "time": "17:00-", "available": true }
             ]
         },
         {
@@ -57,15 +57,15 @@
             "type": "fdm",
             "img": "https://cdn.shop.prusa3d.com/2623/original-prusa-i3-mk3s-3d-printer.jpg",
             "timeSlots": [
-                "9:00-10:00",
-                "10:00-11:00",
-                "11:00-12:00",
-                "12:00-13:00",
-                "13:00-14:00",
-                "14:00-15:00",
-                "15:00-16:00",
-                "16:00-17:00",
-                "17:00-"
+                { "time": "9:00-10:00", "available": true },
+                { "time": "10:00-11:00", "available": true },
+                { "time": "11:00-12:00", "available": true },
+                { "time": "12:00-13:00", "available": true },
+                { "time": "13:00-14:00", "available": true },
+                { "time": "14:00-15:00", "available": true },
+                { "time": "15:00-16:00", "available": true },
+                { "time": "16:00-17:00", "available": true },
+                { "time": "17:00-", "available": true }
             ]
         },
         {
@@ -74,15 +74,15 @@
             "type": "sla",
             "img": "https://www.creality3dofficial.com/files/goods/LD-006.jpg",
             "timeSlots": [
-                "9:00-10:00",
-                "10:00-11:00",
-                "11:00-12:00",
-                "12:00-13:00",
-                "13:00-14:00",
-                "14:00-15:00",
-                "15:00-16:00",
-                "16:00-17:00",
-                "17:00-"
+                { "time": "9:00-10:00", "available": true },
+                { "time": "10:00-11:00", "available": true },
+                { "time": "11:00-12:00", "available": true },
+                { "time": "12:00-13:00", "available": true },
+                { "time": "13:00-14:00", "available": true },
+                { "time": "14:00-15:00", "available": true },
+                { "time": "15:00-16:00", "available": true },
+                { "time": "16:00-17:00", "available": true },
+                { "time": "17:00-", "available": true }
             ]
         },
         {
@@ -91,15 +91,15 @@
             "type": "fdm",
             "img": "https://www.3dprintersonlinestore.com/image/cache/catalog/wanhao/d5s/main/1-387x480-0.jpg",
             "timeSlots": [
-                "9:00-10:00",
-                "10:00-11:00",
-                "11:00-12:00",
-                "12:00-13:00",
-                "13:00-14:00",
-                "14:00-15:00",
-                "15:00-16:00",
-                "16:00-17:00",
-                "17:00-"
+                { "time": "9:00-10:00", "available": true },
+                { "time": "10:00-11:00", "available": true },
+                { "time": "11:00-12:00", "available": true },
+                { "time": "12:00-13:00", "available": true },
+                { "time": "13:00-14:00", "available": true },
+                { "time": "14:00-15:00", "available": true },
+                { "time": "15:00-16:00", "available": true },
+                { "time": "16:00-17:00", "available": true },
+                { "time": "17:00-", "available": true }
             ]
         },
         {
@@ -108,15 +108,15 @@
             "type": "fdm",
             "img": "https://www.mark3d.com/en/wp-content/uploads/sites/6/2018/04/MARK-TWO-Mark3D-kaufen.jpg",
             "timeSlots": [
-                "9:00-10:00",
-                "10:00-11:00",
-                "11:00-12:00",
-                "12:00-13:00",
-                "13:00-14:00",
-                "14:00-15:00",
-                "15:00-16:00",
-                "16:00-17:00",
-                "17:00-"
+                { "time": "9:00-10:00", "available": true },
+                { "time": "10:00-11:00", "available": true },
+                { "time": "11:00-12:00", "available": true },
+                { "time": "12:00-13:00", "available": true },
+                { "time": "13:00-14:00", "available": true },
+                { "time": "14:00-15:00", "available": true },
+                { "time": "15:00-16:00", "available": true },
+                { "time": "16:00-17:00", "available": true },
+                { "time": "17:00-", "available": true }
             ]
         }
     ]

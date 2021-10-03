@@ -1,0 +1,123 @@
+{
+    "data": [
+        {
+            "id": "493f9cc0-7740-4002-86c5-21ae3f61e9d2",
+            "name": "prusa",
+            "type": "fdm",
+            "img": "https://cdn.prusa3d.com/wp-content/uploads/2021/01/MK3Splus_small.png",
+            "timeSlots": [
+                "9:00-10:00",
+                "10:00-11:00",
+                "11:00-12:00",
+                "12:00-13:00",
+                "13:00-14:00",
+                "14:00-15:00",
+                "15:00-16:00",
+                "16:00-17:00",
+                "17:00-"
+            ]
+        },
+        {
+            "id": "59757656-a310-4f35-a272-aa3be0911f48",
+            "name": "ultimaker-2",
+            "type": "fdm",
+            "img": "https://www.atea.fi/eshop/img/3/f3266878/t16050759105161605860413652/s190X12c/",
+            "timeSlots": [
+                "9:00-10:00",
+                "10:00-11:00",
+                "11:00-12:00",
+                "12:00-13:00",
+                "13:00-14:00",
+                "14:00-15:00",
+                "15:00-16:00",
+                "16:00-17:00",
+                "17:00-"
+            ]
+        },
+        {
+            "id": "5ec9e879-c53d-4d84-95ed-be393c7db57f",
+            "name": "ultimaker-5",
+            "type": "fdm",
+            "img": "https://cdn03.plentymarkets.com/ioseuwg7moqp/item/images/24319/full/Ultimaker-S5-Air-Manager-S5-Air-Manager-24319_4.jpg",
+            "timeSlots": [
+                "9:00-10:00",
+                "10:00-11:00",
+                "11:00-12:00",
+                "12:00-13:00",
+                "13:00-14:00",
+                "14:00-15:00",
+                "15:00-16:00",
+                "16:00-17:00",
+                "17:00-"
+            ]
+        },
+        {
+            "id": "05e78c71-a66b-4680-bb45-b4d0ddc66bec",
+            "name": "prusa-i3",
+            "type": "fdm",
+            "img": "https://cdn.shop.prusa3d.com/2623/original-prusa-i3-mk3s-3d-printer.jpg",
+            "timeSlots": [
+                "9:00-10:00",
+                "10:00-11:00",
+                "11:00-12:00",
+                "12:00-13:00",
+                "13:00-14:00",
+                "14:00-15:00",
+                "15:00-16:00",
+                "16:00-17:00",
+                "17:00-"
+            ]
+        },
+        {
+            "id": "11051d2d-aab8-431a-b684-6579014fd1c4",
+            "name": "creality",
+            "type": "sla",
+            "img": "https://www.creality3dofficial.com/files/goods/LD-006.jpg",
+            "timeSlots": [
+                "9:00-10:00",
+                "10:00-11:00",
+                "11:00-12:00",
+                "12:00-13:00",
+                "13:00-14:00",
+                "14:00-15:00",
+                "15:00-16:00",
+                "16:00-17:00",
+                "17:00-"
+            ]
+        },
+        {
+            "id": "de9682ee-d280-4f21-a7cd-fde17338d7ad",
+            "name": "wanhao",
+            "type": "fdm",
+            "img": "https://www.3dprintersonlinestore.com/image/cache/catalog/wanhao/d5s/main/1-387x480-0.jpg",
+            "timeSlots": [
+                "9:00-10:00",
+                "10:00-11:00",
+                "11:00-12:00",
+                "12:00-13:00",
+                "13:00-14:00",
+                "14:00-15:00",
+                "15:00-16:00",
+                "16:00-17:00",
+                "17:00-"
+            ]
+        },
+        {
+            "id": "9a5e14c0-aeaf-45c8-a543-aff7415b11a3",
+            "name": "markforged onyx pro",
+            "type": "fdm",
+            "img": "https://www.mark3d.com/en/wp-content/uploads/sites/6/2018/04/MARK-TWO-Mark3D-kaufen.jpg",
+            "timeSlots": [
+                "9:00-10:00",
+                "10:00-11:00",
+                "11:00-12:00",
+                "12:00-13:00",
+                "13:00-14:00",
+                "14:00-15:00",
+                "15:00-16:00",
+                "16:00-17:00",
+                "17:00-"
+            ]
+        }
+    ]
+}
